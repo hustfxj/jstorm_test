@@ -14,4 +14,5 @@ topology.bolt.nums=1
 topology.pollFreq=10
 topology.testRunTime=100
 topology.messagesize=100
+disruptor.use.sleep=false
 
